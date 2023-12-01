@@ -10,6 +10,7 @@ A responsive landing page inspired by Milton, built using Next.js and Tailwind C
 - [Built With](#built-with)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
+- [Screenshot](#screenshot)
 
 ## Overview
 
@@ -82,4 +83,9 @@ Contributions are welcome! Follow these steps to contribute:
 ## Acknowledgments
 
 - [Milton](https://culture-breathe-337021.framer.app/) landing page for inspiration.
+
+## Screenshot
+
+![screencapture-culture-breathe-337021-framer-app-2023-12-01-15_54_06](https://github.com/prantikseal/milton-clone/assets/83081442/55b51099-f415-47b6-97b7-73051548d2cf)
+
 
