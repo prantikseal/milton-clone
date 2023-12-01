@@ -3,19 +3,21 @@ A responsive landing page inspired by Milton, built using Next.js and Tailwind C
 
 ## Table of Contents
 - [Overview](#overview)
+- [Deployment](#deployment)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Deployment](#deployment)
 - [Built With](#built-with)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 This project is a clone of the Milton landing page, showcasing the capabilities of Next.js and Tailwind CSS. The landing page is designed to be responsive and visually appealing, providing a modern user experience.
+
+## Deployment
+
+The project is deployed using Vercel. The live version can be found [here](https://milton-clone-landing-page.vercel.app/).
 
 ## Features
 
@@ -59,10 +61,6 @@ yarn dev
 ```
 
 Open http://localhost:3000 in your browser.
-
-## Deployment
-
-The project is deployed using Vercel. The live version can be found [here](https://milton-clone-landing-page.vercel.app/).
 
 ## Built With
 
